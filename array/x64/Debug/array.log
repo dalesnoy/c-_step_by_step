@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\c++\array\Source.cpp(5,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  array.vcxproj -> D:\c++\array\x64\Debug\array.exe

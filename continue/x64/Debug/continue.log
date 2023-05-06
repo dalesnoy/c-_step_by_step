@@ -1,0 +1,3 @@
+﻿  continue.cpp
+D:\c++\continue\continue.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  continue.vcxproj -> D:\c++\continue\x64\Debug\continue.exe
