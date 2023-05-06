@@ -1,0 +1,1 @@
+D:\c++\source\repos\rand_srand\x64\Debug\rand_srand.exe

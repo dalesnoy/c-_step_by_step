@@ -1,0 +1,4 @@
+﻿  homework_rand_arr.cpp
+D:\c++\source\repos\homework_rand_arr\homework_rand_arr.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\c++\source\repos\homework_rand_arr\homework_rand_arr.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  homework_rand_arr.vcxproj -> D:\c++\source\repos\homework_rand_arr\x64\Debug\homework_rand_arr.exe

@@ -1,0 +1,4 @@
+﻿  rand_srand.cpp
+D:\c++\source\repos\rand_srand\rand_srand.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\c++\source\repos\rand_srand\rand_srand.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  rand_srand.vcxproj -> D:\c++\source\repos\rand_srand\x64\Debug\rand_srand.exe
