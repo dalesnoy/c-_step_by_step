@@ -1,0 +1,3 @@
+﻿  function.cpp
+D:\c++\source\repos\function\function.cpp(24,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  function.vcxproj -> D:\c++\source\repos\function\x64\Debug\function.exe
